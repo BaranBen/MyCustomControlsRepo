@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="MyCustomControls.MyWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="768" d:DesignWidth="1024">
+    <DockPanel LastChildFill="True">
+        
+        <Border DockPanel.Dock="Top" CornerRadius="4,4,0,0" Width="Auto" 
+                    Height="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                    Background="Beige" BorderBrush="Brown" BorderThickness="1">
+            <TextBlock x:Name="txt_baslik" Width="Auto" Height="Auto" 
+                            HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></TextBlock>
+        </Border>
+        
+        <Border DockPanel.Dock="Top" CornerRadius="0,0,4,4" Width="Auto" 
+                    Height="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                    BorderBrush="Brown" BorderThickness="1,0,1,1" MinWidth="100px" MinHeight="100px">
+            <TextBlock x:Name="txt_icerik" Width="Auto" Height="Auto" 
+                            HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></TextBlock>
+        </Border>
+    </DockPanel>
+</UserControl>

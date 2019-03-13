@@ -1,0 +1,16 @@
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\bin\Debug\MyCustomControls.dll
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\bin\Debug\MyCustomControls.pdb
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.csprojAssemblyReference.cache
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyWindow.baml
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MainWindow.g.cs
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyWindow.g.cs
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls_MarkupCompile.cache
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls_MarkupCompile.lref
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MainWindow.baml
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.g.resources
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.Properties.Resources.resources
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.csproj.GenerateResource.cache
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.dll
+C:\Users\Yazılım\Google Drive\VisualStudio2017\MyCustomControls\MyCustomControls\MyCustomControls\obj\Debug\MyCustomControls.pdb
